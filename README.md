@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluejet80
+- 👋 Hi, I’m @bluejet80 aka Jarett Young
 - 👀 I’m interested in full stack software development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Python, Lisp
 - 💞️ I’m looking to collaborate on Teaching and Learning Programming
@@ -10,12 +10,13 @@
 
 I am about 1/3 of the way through the Complete JavaScript Course on Udemy taught by Jonas Schemedtmann.  
 I am taking my time and going back to review often as well as creating my own projects along the way.   
+[Udemy Courses](https://www.udemy.com/home/my-courses/learning/)
 
 ## 2. Codewars Practice
 
 I have an a ccount on codewars.com where I periodically complete challenges to further ingrain the concepts and 
 ideas into my brain. This has been a very helpful resource. 
-[codewars.com]
+[codewars.com](https://www.codewars.com/dashboard)
 
 
 <!---
