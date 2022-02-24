@@ -14,7 +14,7 @@ I am taking my time and going back to review often as well as creating my own pr
 
 ## 2. Codewars Practice
 
-I have an a ccount on codewars.com where I periodically complete challenges to further ingrain the concepts and 
+I have an account on codewars.com where I periodically complete challenges to further ingrain the concepts and 
 ideas into my brain. This has been a very helpful resource. 
 [codewars.com](https://www.codewars.com/dashboard)
 
