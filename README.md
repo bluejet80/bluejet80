@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bluejet80 aka Jarett Young
 - 👀 I’m interested in full stack software development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Python, Lisp
-- 💞️ I’m looking to collaborate on Teaching and Learning Programming
+- 🎓 I’m currently learning HTML, CSS, JavaScript, Java, Python, Lisp
+- 💻 I’m looking to collaborate on Teaching and Learning Programming
 - 📫 How to reach me. -  Email: know_jarett@yahoo.com
 
 # Outline of Current Focus 2/20/22
