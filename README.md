@@ -1,36 +1,20 @@
-- 👋 Hi, I’m @bluejet80 aka Jarett Young
+- Hi, I’m @bluejet80 aka Jarett Young
 - 👀 I’m interested in full stack software development.
-- 🎓 I’m currently learning HTML, CSS, JavaScript, Java, Python, Lisp
-- 💻 I’m looking to collaborate on Teaching and Learning Programming
-- 📫 How to reach me. -  Email: know_jarett@yahoo.com
+- I’m looking to collaborate on Teaching and Learning Programming
+- How to reach me. -  Email: know_jarett@yahoo.com and jarettayoung@gmail.com
 
-# Outline of Current Focus 6/9/22
+# Outline of Current Focus 08/15/25
 
 ## Current Projects
 
 ### 1. Journal Website
+I have been journaling since I was 20. I have over 30 journals with over 4400 pages of written text. All the journals have been digitized and I have made first line indexes for the pages. I converted google docs into JSON and loaded the data into a MYSQL database. And the I created an API in Express to get the data from the database and display it on a javascript frontend. I am adding the functionality to add commentary and categories to each page.
 
-### 2. Journal Category Website
+### 2. Posterize Script 
+Bash Script to slice images into smaller squares to create large format art. I wanted to be able to take an image and tell the script the size I want the blown up result to be and it automatically slices it into rectangles proportionate to 8.5 x 11 sheets of paper. Then I can print them out and glue the sheets together to create the larger image. It outputs a PDF.
 
-## Online Courses
 
-### 1. Udemy JavaScript Course
 
-I am about 1/3 of the way through the Complete JavaScript Course on Udemy taught by Jonas Schemedtmann.  
-I am taking my time and going back to review often as well as creating my own projects along the way.   
-[Udemy Courses](https://www.udemy.com/home/my-courses/learning/)
-
-### 2. Codewars Practice
-
-I have an account on codewars.com where I periodically complete challenges to further ingrain the concepts and 
-ideas into my brain. This has been a very helpful resource. 
-[codewars.com](https://www.codewars.com/dashboard)
-
-### 3. Udemy Node.js Course
-
-This course focuses on backend where as the other Udemy Course is mainly frontend Javascript.  
-Within this course I am learning about node modules and the Express framework which involves routing, and REST API architecture.  
-[Udemy Courses](https://www.udemy.com/home/my-courses/learning/)
 
 
 <!---
